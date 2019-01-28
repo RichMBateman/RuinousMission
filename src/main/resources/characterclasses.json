@@ -1,0 +1,12 @@
+{
+  "playerclasses": [
+    {"name":"fighter", "preferredZone":"vanguard", "hp":8,"sp":4,"speed":6,"morale":5,"stealth":0},
+    {"name":"priest", "preferredZone":"support", "hp":3,"sp":8,"speed":4,"morale":3,"stealth":-1},
+    {"name":"agent", "preferredZone":"stealth", "hp":4,"sp":4,"speed":7,"morale":3,"stealth":3}
+  ],
+  "enemyclasses": [
+    {"name":"troll brute", "preferredZone":"vanguard", "hp":14,"sp":2,"speed":4,"morale":7,"stealth":-3},
+    {"name":"troll shaman", "preferredZone":"support", "hp":8,"sp":5,"speed":3,"morale":2,"stealth":0},
+    {"name":"goblin assassin", "preferredZone":"stealth", "hp":3,"sp":2,"speed":7,"morale":1,"stealth":4}
+  ]
+}

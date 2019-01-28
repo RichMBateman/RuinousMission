@@ -1,0 +1,15 @@
+{
+  "qualitycards": [
+    {"definition":"Armor Magical 1","classes":["fighter"]},
+    {"definition":"Armor Magical 3","classes":["priest"]},
+    {"definition":"Armor Physical 1","classes":["agent"]},
+    {"definition":"Armor Physical 2","classes":["fighter"]},
+    {"definition":"Armor Morale 1","classes":["fighter"]},
+    {"definition":"Block Physical 3","classes":["troll brute"]},
+    {"definition":"Dodge Physical 1","classes":["fighter"]},
+    {"definition":"Exposure Magical 3","classes":["troll brute"]},
+    {"definition":"Regen Health 2","classes":["troll brute"]},
+    {"definition":"Resist Stun 3", "classes":["troll brute"]},
+    {"definition":"Weak Fire Morale 4","classes":["troll brute"]}
+  ]
+}
