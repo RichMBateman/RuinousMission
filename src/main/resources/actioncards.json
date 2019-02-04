@@ -1,5 +1,9 @@
 {
   "actioncards": [
-    {}
+    {"type":"main", "definition":"Damage-Physical-Blunt-Health-5", "Accuracy":"-2", "name":"Heavy-Handed Slam", "flavortext":"%self slams at %target with brutal force."},
+    {"type":"main", "definition":"Damage-Physical-Blunt-Health-2", "name":"Blunt Strike", "flavortext":"%self strikes %target with a brutish strike."},
+    {"type":"main", "definition":"Damage-Physical-Slash-Health-3", "Accuracy":"-1", "name":"Slash", "flavortext":"%self slashes with %pronoun sword."},
+    {"type":"main", "definition":"Damage-Physical-Slash-Health-2", "name":"Quick Slash", "flavortext":"%self swiftly strikes with %pronoun sword."},
+    {"type":"main", "definition":"DoNothing", "name":"Scowl", "flavortext":"%self scowls menacingly."}
   ]
 }
